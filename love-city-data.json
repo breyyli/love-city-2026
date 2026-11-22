@@ -1,0 +1,117 @@
+{
+  "editorPassword": "251226",
+  "selectedSkin": "blackB",
+  "customSkinImg": null,
+  "letterTitle": "PARA MI COMPAÑERO DE LOVE CITY ❤️",
+  "letterBody": "Desde que empezamos esta partida juntos, cada día se siente como explorar Love City al atardecer. No importa si estamos cruzando la ciudad en coche o disfrutando de las vistas desde lo alto: eres mi persona favorita en el mundo.",
+  "tracks": [
+    {
+      "name": "Sunset Drive in Love City",
+      "artist": "Love City Synth FM",
+      "baseFreq": 110,
+      "tempo": 115
+    },
+    {
+      "name": "Cruising Over Neon",
+      "artist": "2026 Midnight Beats",
+      "baseFreq": 130.81,
+      "tempo": 128
+    },
+    {
+      "name": "Midnight Love Rooftop",
+      "artist": "Ocean Drive 80s",
+      "baseFreq": 98,
+      "tempo": 100
+    }
+  ],
+  "photos": [
+    {
+      "title": "#01 ATARDECER EN LOVE CITY",
+      "desc": "Pequeños momentos que se convierten en nuestras mejores historias.",
+      "img": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "#02 RUTA NOCTURNA",
+      "desc": "Risas infinitas bajo las luces de neón de la ciudad.",
+      "img": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "#03 NUESTRO 2026",
+      "desc": "Listos para cualquier misión que venga por delante.",
+      "img": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "CAPÍTULO 01 // EL INICIO",
+      "title": "Primer encuentro",
+      "desc": "El momento exacto en que empezó nuestra historia."
+    },
+    {
+      "date": "CAPÍTULO 02 // AVENTURA",
+      "title": "Momentos que guardo",
+      "desc": "Cada charla eterna y cada risa compartida."
+    }
+  ],
+  "contract": {
+    "subtitle": "TRATADO OFICIAL LOVE CITY // EDICIÓN 2026",
+    "title": "CONTRATO DE RENOVACIÓN DE AMOR 2027",
+    "clauses": [
+      "Cláusula 1: Derecho inalienable a robar patatas fritas del plato ajeno sin previo aviso.",
+      "Cláusula 2: Obligación de darse un beso antes de dormir, incluso si hubo algún mini enfado durante el día.",
+      "Cláusula 3: Mínimo una cita épica al mes con banda sonora de Love City y abrazos ilimitados."
+    ],
+    "signer1Name": "Yo",
+    "signer2Name": "Tú",
+    "signer1Signed": false,
+    "signer2Signed": false
+  },
+  "quiz": {
+    "questions": [
+      {
+        "q": "1. ¿Cuál es nuestro plan perfecto en Love City?",
+        "options": [
+          "A) Dar una vuelta al atardecer con buena música",
+          "B) Quedarnos atrapados en el tráfico sin aire",
+          "C) Perder las llaves del coche en la playa"
+        ],
+        "correctIdx": 0,
+        "jokes": [
+          "",
+          "¡Error! En Love City nunca hay tráfico cuando vamos juntos 😄",
+          "¡Casi! Pero siempre llevamos copia en el bolsillo 😎"
+        ]
+      },
+      {
+        "q": "2. ¿Qué pasa si hay comida rica cerca?",
+        "options": [
+          "A) Nadie toca nada",
+          "B) Se comparte (y caen un par de patatas)",
+          "C) Se lanza por la ventana"
+        ],
+        "correctIdx": 1,
+        "jokes": [
+          "¡Mentira! Sabes que es imposible resistirse 🍟",
+          "",
+          "¡Alerta roja! Eso violaría la Cláusula 1 del contrato 🚨"
+        ]
+      },
+      {
+        "q": "3. ¿Quién tiene el súper poder de alegrarme cualquier día?",
+        "options": [
+          "A) El alcalde de Love City",
+          "B) Un mapache radioactivo",
+          "C) Tú, sin ninguna duda ❤️"
+        ],
+        "correctIdx": 2,
+        "jokes": [
+          "¡Ni en broma! Ese no tiene ni estilo 😎",
+          "¡Casi! Prueba mejor con la opción C ✨",
+          ""
+        ]
+      }
+    ],
+    "prizeTitle": "¡PREMIO DESBLOQUEADO!",
+    "prizeText": "Te has ganado un beso enorme (canjeable inmediatamente en la vida real) 💋❤️"
+  }
+}
