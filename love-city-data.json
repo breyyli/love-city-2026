@@ -69,41 +69,41 @@
   "quiz": {
     "questions": [
       {
-        "q": "1. ¿Cuál es nuestro plan perfecto en Love City?",
+        "q": "1. Si nos toca elegir dónde cenar este viernes sin discutir, ¿por dónde tiramos?",
         "options": [
-          "A) Dar una vuelta al atardecer con buena música",
-          "B) Quedarnos atrapados en el tráfico sin aire",
-          "C) Perder las llaves del coche en la playa"
-        ],
-        "correctIdx": 0,
-        "jokes": [
-          "",
-          "¡Error! En Love City nunca hay tráfico cuando vamos juntos 😄",
-          "¡Casi! Pero siempre llevamos copia en el bolsillo 😎"
-        ]
-      },
-      {
-        "q": "2. ¿Qué pasa si hay comida rica cerca?",
-        "options": [
-          "A) Nadie toca nada",
-          "B) Se comparte (y caen un par de patatas)",
-          "C) Se lanza por la ventana"
+          "A) Una cafetería a tomar pan con chocolate caliente",
+          "B) A un buffet donde podamos probar de todo un poco",
+          ") Un sitio de sushi para llevar y comer en casa"
         ],
         "correctIdx": 1,
         "jokes": [
+          "¡Error! Sabes que el pan con chocolate no me gusta.",
+          "¡Error! En Love City nunca hay tráfico cuando vamos juntos 😄",
+          "¡Casi! Me encanta el sushi, pero el buffet juntos gana por goleada."
+        ]
+      },
+      {
+        "q": "2. ¿Qué plan de tarde o noche encaja más conmigo cuando quiero desconectar?",
+        "options": [
+          "A) Una peli o tomar unas copas contigo",
+          "B) Ir a una discoteca y bailar toda la noche.",
+          "C) Estar todo el día con el móvil."
+        ],
+        "correctIdx": 0,
+        "jokes": [
           "¡Mentira! Sabes que es imposible resistirse 🍟",
-          "",
+          "¡Error! No va tanto conmigo como tomar o ver algo copntigo.",
           "¡Alerta roja! Eso violaría la Cláusula 1 del contrato 🚨"
         ]
       },
       {
-        "q": "3. ¿Quién tiene el súper poder de alegrarme cualquier día?",
+        "q": "3. Cuando he tenido un día malo o agobio por el trabajo, ¿qué valoro más de ti?",
         "options": [
-          "A) El alcalde de Love City",
-          "B) Un mapache radioactivo",
-          "C) Tú, sin ninguna duda ❤️"
+          "A) Que estés ahí apoyándome.",
+          "B) Que me des mimos y besos",
+          "C) Que me des lecciones de vida."
         ],
-        "correctIdx": 2,
+        "correctIdx": 0,
         "jokes": [
           "¡Ni en broma! Ese no tiene ni estilo 😎",
           "¡Casi! Prueba mejor con la opción C ✨",
